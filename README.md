@@ -29,3 +29,7 @@ Node*, Express*, AJAX, Instagram API, jQuery, JavaScript, Materialize CSS, CSS, 
 ###### Image caption
 ![Alt Text](url)
 *image caption test*
+
+#### Credits
+
+*  <https://www.psychologicalscience.org/news/minds-business/the-power-of-puppies-looking-at-cute-images-can-improve-focus.html>
