@@ -8,11 +8,13 @@
 
 ## Contents
 
-## Inspiration/ Concept/ Motivation
+## Concept & Motivation
+
+I once read on the Good News Network, <https://goodnewsnetwork.org>, that viewing cute animal photos is a proven way to boost your mood. I decided to build an application that would allow me to quickly view the latest Instagram content from my favorite felines.
 
 ## Technologies Used
 
-Lorem ipsum, dolor sit,
+Node*, Express*, AJAX, Instagram API, jQuery, JavaScript, Materialize CSS, CSS, HTML
 
 ## Key Features
 
